@@ -3,3 +3,4 @@ pyscard
 pytest
 pytest-ordering
 solo-python >=0.0.12
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

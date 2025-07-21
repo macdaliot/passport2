@@ -4,3 +4,4 @@ web3 >= 4.8
 Pillow
 stellar-sdk>=4.0.0,<6.0.0
 types-click
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
